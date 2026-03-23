@@ -20,6 +20,11 @@ Understanding cryptography can be challenging. This UI project simplifies the co
 
 ---
 
+## 🔗 Live Demo
+https://arbazmudassar.github.io/cryptography-simulator-ui/
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML** – Page structure
